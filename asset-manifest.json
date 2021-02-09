@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Saikanth-DW-CC/static/css/main.5b90e1d7.chunk.css",
+    "main.js": "/Saikanth-DW-CC/static/js/main.6e916376.chunk.js",
+    "main.js.map": "/Saikanth-DW-CC/static/js/main.6e916376.chunk.js.map",
+    "runtime-main.js": "/Saikanth-DW-CC/static/js/runtime-main.2438eb62.js",
+    "runtime-main.js.map": "/Saikanth-DW-CC/static/js/runtime-main.2438eb62.js.map",
+    "static/js/2.d669c539.chunk.js": "/Saikanth-DW-CC/static/js/2.d669c539.chunk.js",
+    "static/js/2.d669c539.chunk.js.map": "/Saikanth-DW-CC/static/js/2.d669c539.chunk.js.map",
+    "static/js/3.bc785e45.chunk.js": "/Saikanth-DW-CC/static/js/3.bc785e45.chunk.js",
+    "static/js/3.bc785e45.chunk.js.map": "/Saikanth-DW-CC/static/js/3.bc785e45.chunk.js.map",
+    "index.html": "/Saikanth-DW-CC/index.html",
+    "static/css/main.5b90e1d7.chunk.css.map": "/Saikanth-DW-CC/static/css/main.5b90e1d7.chunk.css.map",
+    "static/js/2.d669c539.chunk.js.LICENSE.txt": "/Saikanth-DW-CC/static/js/2.d669c539.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2438eb62.js",
+    "static/js/2.d669c539.chunk.js",
+    "static/css/main.5b90e1d7.chunk.css",
+    "static/js/main.6e916376.chunk.js"
+  ]
+}
