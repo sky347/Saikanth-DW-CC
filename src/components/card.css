@@ -1,0 +1,60 @@
+.cardWrapper {
+  width: 100%;
+}
+
+.divbox {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: #f2f2f2;
+  margin-bottom: 20px;
+  border-radius: 25px;
+  width: 85%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+}
+
+.card {
+  margin: 20px;
+  padding: 25px;
+}
+
+.price {
+  color: #0066ff;
+  font-size: 30px;
+  margin-top: 20px;
+  position: relative;
+}
+
+.time {
+  color: black;
+  font-weight: 500;
+  text-align: right;
+  margin-top: 10px;
+  position: relative;
+}
+
+/***********For Large Devices***********/
+@media (min-width: 930px) {
+  .col-lg-4 {
+    float: left;
+  }
+  .col-lg-4 {
+    width: 33.33%;
+  }
+}
+
+/***********For Small Devices***********/
+@media (max-width: 929px) {
+  .col-sm-12 {
+    float: left;
+  }
+  .col-sm-12 {
+    width: 100%;
+  }
+}
